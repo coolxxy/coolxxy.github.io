@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://coolxxy.github.io</id>
+    <title>潇潇雨的博客</title>
+    <updated>2022-12-29T11:57:32.945Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://coolxxy.github.io"/>
+    <link rel="self" href="https://coolxxy.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://coolxxy.github.io/images/avatar.png</logo>
+    <icon>https://coolxxy.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 潇潇雨的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[Golang 中的 for-range 循环]]></title>
+        <id>https://coolxxy.github.io/post/ce-shi-wen-zhang/</id>
+        <link href="https://coolxxy.github.io/post/ce-shi-wen-zhang/">
+        </link>
+        <updated>2022-12-29T11:46:07.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="golang中的循环">golang中的循环</h1>
+]]></content>
+    </entry>
+</feed>
