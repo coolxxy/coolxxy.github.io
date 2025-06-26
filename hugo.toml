@@ -1,0 +1,4 @@
+baseURL = 'https://coolxxy.github.io/'
+languageCode = 'zh-CN'
+title = 'Coolxxy的博客站'
+theme = 'paper'
