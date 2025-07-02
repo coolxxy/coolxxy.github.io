@@ -1,4 +1,23 @@
-baseURL = 'https://coolxxy.github.io/'
-languageCode = 'zh-CN'
-title = 'Coolxxy的博客站'
-theme = 'paper'
+baseURL = "https://coolxxy.github.io/"
+languageCode = "zh"
+title = "Coolxxy's Blog"
+theme = "yinyang"
+DefaultContentLanguage = "cn"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    guessSyntax = true
+    noClasses = true
+    style = "bw"
+    tabWidth = 2
+
+[params]
+mainSections = ["posts"]
+headTitle = "Coolxxy's Blog"
+
+[[params.socials]]
+name = "Github"
+link = "https://github.com/coolxxy"
